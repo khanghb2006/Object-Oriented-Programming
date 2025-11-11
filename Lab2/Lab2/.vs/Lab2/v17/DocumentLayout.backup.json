@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\MainProg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\MainProg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\DynamicArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\DynamicArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\DynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\DynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\CTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CRectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\CRectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CCircle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\CCircle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\CTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\CPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\CPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CRectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\CRectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3EBD9E-989B-49C1-9A95-B320544CE209}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\CCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicArray.cpp",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\DynamicArray.cpp",
+              "RelativeDocumentMoniker": "Lab2\\DynamicArray.cpp",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\DynamicArray.cpp",
+              "RelativeToolTip": "Lab2\\DynamicArray.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T03:25:39.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicArray.h",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\DynamicArray.h",
+              "RelativeDocumentMoniker": "Lab2\\DynamicArray.h",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\DynamicArray.h",
+              "RelativeToolTip": "Lab2\\DynamicArray.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-25T03:21:24.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CTriangle.cpp",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CTriangle.cpp",
+              "RelativeDocumentMoniker": "Lab2\\CTriangle.cpp",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CTriangle.cpp",
+              "RelativeToolTip": "Lab2\\CTriangle.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T03:11:48.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CTriangle.h",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CTriangle.h",
+              "RelativeDocumentMoniker": "Lab2\\CTriangle.h",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CTriangle.h",
+              "RelativeToolTip": "Lab2\\CTriangle.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-25T02:54:10.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CRectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CRectangle.cpp",
+              "RelativeDocumentMoniker": "Lab2\\CRectangle.cpp",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CRectangle.cpp",
+              "RelativeToolTip": "Lab2\\CRectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T02:37:00.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRectangle.h",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CRectangle.h",
+              "RelativeDocumentMoniker": "Lab2\\CRectangle.h",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CRectangle.h",
+              "RelativeToolTip": "Lab2\\CRectangle.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-25T02:05:19.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CCircle.cpp",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CCircle.cpp",
+              "RelativeDocumentMoniker": "Lab2\\CCircle.cpp",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CCircle.cpp",
+              "RelativeToolTip": "Lab2\\CCircle.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T05:45:08.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CCircle.h",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CCircle.h",
+              "RelativeDocumentMoniker": "Lab2\\CCircle.h",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CCircle.h",
+              "RelativeToolTip": "Lab2\\CCircle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-24T03:28:43.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainProg.cpp",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\MainProg.cpp",
+              "RelativeDocumentMoniker": "Lab2\\MainProg.cpp",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\MainProg.cpp*",
+              "RelativeToolTip": "Lab2\\MainProg.cpp*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwBsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T03:23:58.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CPoint.cpp",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CPoint.cpp",
+              "RelativeDocumentMoniker": "Lab2\\CPoint.cpp",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CPoint.cpp",
+              "RelativeToolTip": "Lab2\\CPoint.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T03:22:18.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CPoint.h",
+              "DocumentMoniker": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CPoint.h",
+              "RelativeDocumentMoniker": "Lab2\\CPoint.h",
+              "ToolTip": "C:\\Users\\hbk18\\Documents\\OOP\\Lab2\\Lab2\\Lab2\\CPoint.h",
+              "RelativeToolTip": "Lab2\\CPoint.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAnwCQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-24T03:15:54.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
