@@ -1,4 +1,5 @@
-#include<iostream>
+#include <iostream>
+#include <cmath>
 #include "CPoint.h"
 
 int CPoint::InstanceCount = 0;

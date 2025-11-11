@@ -17,7 +17,7 @@ public:
 	// Constructure
 	~CCircle() {
 		delete m_center;
-		m_center = NULL;
+		m_center = nullptr;
 		m_radius = 0;
 	}
 
