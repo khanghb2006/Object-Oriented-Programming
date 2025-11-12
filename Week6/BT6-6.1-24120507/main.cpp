@@ -37,12 +37,6 @@ void random_vector(std::vector<int> &value) {
     std::transform(value.begin() , value.end() ,value.begin() , set_value);
 }
 
-void print_vec(const std::vector<int> &vec) {
-    for (auto it : vec)
-        std::cout << it << " ";
-    std::cout << "\n";
-}
-
 // fill the prime numbers in the vector
 void fill_prime(std::vector<int> &prime) {
     int current = 0;
@@ -54,6 +48,12 @@ void fill_prime(std::vector<int> &prime) {
     };
 
     std::transform(prime.begin() , prime.end() , prime.begin() , find_prime);
+}
+
+void print_vec(const std::vector<int> &vec) {
+    for (auto it : vec)
+        std::cout << it << " ";
+    std::cout << "\n";
 }
 
 int main() {
